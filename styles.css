@@ -1,0 +1,161 @@
+/*FUCK YOU*/
+
+html {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+      }
+
+body {
+        background: #82B4D4;
+        background-image: url("webbits/foreground.svg"),
+              url("webbits/hill.svg"),
+              url("webbits/nearbackmountain.svg"),
+              url("webbits/backmountain.svg"),
+              url("webbits/skyswipe.svg");
+        background-position: bottom left,
+              bottom left,
+              bottom left,
+              bottom left,
+              top left;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+
+}
+
+#content {
+        width: 100%;
+        font-family: 'Arial', 'Helvetica', sans-serif;
+	    color: #FFF;
+	    text-align: center;
+}
+
+#header1, #header2 {
+	    width: 100%;
+	    font-family: 'Bebas Neue', 'Impact';
+        color: #FFF;
+		text-align: center;
+      }
+
+  @media screen and (min-width:521px) {
+	
+#content {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        font-size: 1vw;
+        bottom: 0;
+        margin-top: auto;
+        line-height: 60%;
+        z-index: -1;
+
+}
+    #header1 {
+        font-size: 3vw;
+        line-height: 60%;
+        /*position:absolute;
+        height: 50%;
+        justify-content: flex-start;*/
+      }
+      
+    #header2 {
+        /*position:absolute;*/
+        line-height: 100%;
+        font-size: 6vw;
+      }
+    
+    img.links {
+      height: 150%;
+      /*border-style: none;
+      border-width: 0vw 1vw 0vw 1vw;*/
+      margin: 0vw 0.5vw 0vw 0.5vw;
+    }
+
+    img.links:hover {
+      box-shadow: 1px 2px 2px black;
+    }
+
+#ufodiv {
+    width:141px;
+    height:47px;
+    background-image: url(webbits/ufo.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 1;
+	position: absolute;
+	animation-name: ufoflight;
+	animation-duration: 20s;
+	animation-fill-mode: forwards;
+	animation-iteration-count: infinite;
+}
+	  
+@keyframes ufoflight {
+	0%	{left: 90%; top: 1%; transform: scale(1%,1%);}
+	20% {left: 60%; top: 20%; transform: scale(80%,80%); transform: rotate(-10deg);}
+	40%	{left: 55%; top: 22%; transform: scale(80%,80%); transform: rotate(5deg);}
+	60%	{left: 65%; top: 22%; transform: scale(80%,80%); transform: rotate(-20deg);}
+	80%	{left: 55%; top: 22%; transform: scale(80%,80%); transform: rotate(10deg);}
+	100%	{left: 85%; top: 0%; transform: scale(1%,1%);}
+}
+	}
+
+@media screen and (max-width:520px) {
+    #content {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        bottom:0;
+        width: 95%;
+        font-size: 2.4vw;
+        line-height: 100%;
+}
+    
+    #header1 {
+            font-size: 12vw;
+            line-height: 80%;
+          }
+          
+    #header2 {
+            margin-top: 0px;
+            font-size: 24vw;
+            line-height: 80%;
+          }
+
+    img.links {
+      /*height: 150%;*/
+      /*border-style: none;
+      border-width: 0vw 1vw 0vw 1vw;*/
+      margin: 0vw 1vw 0vw 1vw;
+    }
+
+    img.links:hover {
+      box-shadow: 1px 2px 2px black;
+    }
+
+#ufodiv {
+    width:141px;
+    height:47px;
+    background-image: url(webbits/ufo.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 1;
+	position: absolute;
+	animation-name: ufoflight;
+	animation-duration: 20s;
+	animation-fill-mode: forwards;
+	animation-iteration-count: infinite;
+}
+        
+    @keyframes ufoflight {
+        0%   {left:40%; top:10%; transform: scale(1%,1%); transform: rotate(5deg);}
+        15%  {left:40%; top:30%; transform: scale(40%,40%); transform: rotate(-10deg);}
+        30%  {left:15%; top:35%; transform: scale(40%,40%); transform: rotate(5deg);}
+        45%  {left:20%; top:35%; transform: scale(40%,40%); transform: rotate(-20deg);}
+        60%  {left:15%; top:35%; transform: scale(40%,40%); transform: rotate(0deg);}
+        75%  {left:30%; top:5%; transform: scale(10%,10%); transform: rotate(-10deg);}
+        90%  {left:40%; top:10%; transform: scale(1%,1%); transform: rotate(-15deg);}
+        100% {left:40%; top:10%; transform: scale(1%,1%); transform: rotate(5deg);}
+        }
+      }
+      }
