@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6.3499999mm"
+   height="6.3499999mm"
+   viewBox="0 0 6.3499999 6.3499999"
+   version="1.1"
+   id="svg1090"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="twitter.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1092"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.69664703"
+     inkscape:cx="150.00423"
+     inkscape:cy="320.10472"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1087" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-65.567967,-63.66899)">
+    <path
+       id="rect385"
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:2.38311;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10"
+       d="m 65.977761,63.66899 c -0.226998,0 -0.409794,0.182796 -0.409794,0.409794 v 5.530412 c 0,0.226998 0.182796,0.409794 0.409794,0.409794 h 5.530412 c 0.226998,0 0.409794,-0.182796 0.409794,-0.409794 v -5.530412 c 0,-0.226998 -0.182796,-0.409794 -0.409794,-0.409794 z m 3.799768,1.145666 c 0.293891,0 0.559268,0.124195 0.745691,0.322461 0.2327,-0.04562 0.451666,-0.130929 0.649056,-0.248046 -0.07632,0.238621 -0.238081,0.439527 -0.449068,0.565856 0.20659,-0.02475 0.403051,-0.0792 0.586011,-0.160196 -0.136638,0.204627 -0.309947,0.384336 -0.50953,0.528649 0.002,0.04386 0.0031,0.08791 0.0031,0.131775 0,1.350144 -1.02773,2.9068 -2.907316,2.9068 -0.576816,0 -1.113555,-0.168725 -1.565796,-0.458887 0.08005,0.0094 0.161448,0.01447 0.243913,0.01447 0.47856,0 0.919355,-0.163547 1.269173,-0.437699 -0.447197,-0.0079 -0.824406,-0.303773 -0.954464,-0.709518 0.06229,0.01184 0.12644,0.01809 0.192237,0.01809 0.09299,0 0.18326,-0.01241 0.269234,-0.03566 -0.467594,-0.09387 -0.819589,-0.506481 -0.819589,-1.00149 v -0.01344 c 0.137734,0.07654 0.294943,0.122675 0.462504,0.128158 -0.273932,-0.183134 -0.454236,-0.49617 -0.454236,-0.850594 0,-0.186862 0.05025,-0.362332 0.137976,-0.513664 0.504001,0.618048 1.256383,1.024868 2.105815,1.067635 -0.01711,-0.07501 -0.02635,-0.152711 -0.02635,-0.232544 0,-0.564533 0.457548,-1.02216 1.021643,-1.02216 z"
+       inkscape:export-filename="../../Documents/website/icons/twitter.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
